@@ -69,32 +69,3 @@ linux-admin-wordpress-case-study/
 └── docs/project-artifacts.md
 ```
 
-## Files Included
-- **Case study** for portfolio and recruiter review
-- **Architecture notes** to explain the stack clearly
-- **Implementation runbook** for step-by-step deployment understanding
-- **Security hardening notes** for operational maturity
-- **Troubleshooting guide** for common failures and fixes
-- **Reusable deployment scripts**
-- **CI/CD pipeline definitions**
-
-## Why This Repo Matters
-A lot of people throw random screenshots into GitHub and call it engineering. This is better. It shows structured thinking, operational clarity, and enough technical depth to prove the work was understood and not merely copied.
-
-This repository is suitable for:
-- Portfolio presentation
-- Job application proof of hands-on work
-- Fiverr or freelance showcase material
-- Technical interview walkthroughs
-
-## Suggested Use
-Pin this repository on GitHub and use the main case study in `docs/case-study.md` as the primary artifact when presenting the project.
-
-## Author Positioning
-This project is presented as a practical Linux administration and container operations case study with direct relevance to roles involving:
-- Linux Systems Administration
-- Infrastructure Support
-- DevOps Support
-- Platform Operations
-- Web Stack Deployment
-- Entry to mid-level cloud and systems engineering
