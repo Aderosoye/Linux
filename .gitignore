@@ -1,0 +1,8 @@
+.env
+*.log
+*.tar.gz
+*.sql
+wp_data/
+db_data/
+backups/
+.DS_Store
